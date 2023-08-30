@@ -1,0 +1,15 @@
+#changes{
+    border: 1px solid black;
+}
+p{
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#options{
+    text-align: center;
+    margin-top: 120px;
+    
+}
