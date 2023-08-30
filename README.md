@@ -1,1 +1,3 @@
 # 9assign
+i created three files in html file i created a div , on which changes will happen and in another div i added input box for values for color font size etc. and also added a button with them that has a onclick event in them that after click on button a certain function will be called in css file i gave styling to my html
+and in java script file i get my div and paragrah element on which changes will be applied by using .get element by id method then in change color function i stored the input value of color in a variable using .value and then in paragraph i gave this color by using .style.color i repeat the same process in all the remaining functions 
